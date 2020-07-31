@@ -6,7 +6,8 @@ Hi, I am a graduate student at R.V. College of Engineering, Bengaluru pursuing m
 
 I can usually be found doing two things:
 - Binge watching TV-shows/movies, or
-- Coding (Learning as of now 😜️)
+- Coding (Learning as of now 😜️). 
+
 I'm currently learning Computer Vision and also, Web Development with React. As soon as I'm good with these two, I will get my hands dirty with Cloud Computing.  
 ## ⚡ My Workspace
 ![My Space](https://github.com/Ankitz007/Ankitz007/blob/master/images/2872.jpg)  
