@@ -1,8 +1,8 @@
 ![My Profile Header](https://github.com/Ankitz007/Ankitz007/blob/master/images/Ankit%20github%20profile.png)
 
-# 🤵️ Ankit Kumar Singh
+## ![My Gif](https://github.com/Ankitz007/Ankitz007/blob/master/images/mygif.gif)
 
-Hi, I am a graduate student at R.V. College of Engineering, Bengaluru pursuing my Bachelors in Information Technology. I am passionate for Front-End Web Design and have extensive experience working with Deep Learning Models as well. I am always eager to learn and adapt to different environments.  
+I am an undergraduate student at R.V. College of Engineering, Bengaluru pursuing my Bachelors in Information Technology. I am passionate for Front-End Web Design and have extensive experience working with Deep Learning Models as well. I am always eager to learn and adapt to different environments.  
 
 ![](https://img.shields.io/badge/I'm%20Awesome-Superpower-brightgreen?style=social&logo=awesome-lists)
 &emsp;
