@@ -19,7 +19,7 @@ I can usually be found doing two things:
 
 I'm currently learning Computer Vision and also, Web Development with React. As soon as I'm good with these two, I will get my hands dirty with Cloud Computing.  
 
-## Tools and Technologies  
+## ☣️ Tools and Technologies  
 ![](https://img.shields.io/badge/OS-Linux-green?style=plastic&logo=Linux)
 &emsp;
 ![](https://img.shields.io/badge/Editor-VS%20Code-green?style=plastic&logo=Visual-studio-code)
