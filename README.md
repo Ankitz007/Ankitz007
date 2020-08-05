@@ -1,6 +1,6 @@
 ![My Profile Header](https://github.com/Ankitz007/Ankitz007/blob/master/images/Ankit%20github%20profile.png)
 
-## ![My Gif](https://github.com/Ankitz007/Ankitz007/blob/master/images/mygif.gif)
+## ![My Gif](https://github.com/Ankitz007/Ankitz007/blob/master/images/ank.gif)
 
 I am an undergraduate student at R.V. College of Engineering, Bengaluru pursuing my Bachelors in Information Technology. I am passionate for Front-End Web Design and have extensive experience working with Deep Learning Models as well. I am always eager to learn and adapt to different environments.  
 
