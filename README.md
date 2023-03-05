@@ -59,15 +59,19 @@ I'm still enthusiastically grabbing onto any other programming languages, framew
 ![](https://img.shields.io/badge/Cloud-Heroku-green?style=plastic&logo=Heroku)
 &emsp;
 
-## ⚡ My Workspace
-![My Space](https://github.com/Ankitz007/Ankitz007/blob/master/images/2872.jpg)  
+## 📊 Statistics
 
-**Well, not exactly, but you get the idea, right? 😂️**
+<div align="center">
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitz007&theme=swift)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitz007&theme=swift)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankitz007&theme=swift)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitz007&theme=swift)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitz007&theme=swift&utcOffset=5.5)
+  
+</div>
 
 ## 💬 How to reach me?
 If you liked what I've done so far and want to collaborate with me in future or want to connect with me, click either of the icons below.  
 
 <a href="https://www.facebook.com/ankitz007/"><img src="https://github.com/Ankitz007/Ankitz007/blob/master/images/%E2%80%94Pngtree%E2%80%94social%20media%20buttons%20png%20and_4163585__01.png" alt="My Facebook" width="150"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/ankitz007/"><img src="https://github.com/Ankitz007/Ankitz007/blob/master/images/%E2%80%94Pngtree%E2%80%94social%20media%20buttons%20png%20and_4163585__03.png" alt="My LinkedIn" width="150" ></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/ankitz_007/"><img src="https://github.com/Ankitz007/Ankitz007/blob/master/images/%E2%80%94Pngtree%E2%80%94social%20media%20buttons%20png%20and_4163585__02.png" alt="My Facebook" width="150" ></a>
-  
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitz007&show_icons=true&locale=en" alt="ankitz007" />
-&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitz007&" alt="ankitz007" />
