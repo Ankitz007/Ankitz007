@@ -44,8 +44,6 @@ I'm still enthusiastically grabbing onto any other programming languages, framew
 &emsp;
 ![](https://img.shields.io/badge/Tools-Bootstrap%20Studio-green?style=plastic&logo=bootstrap)
 &emsp;
-![](https://img.shields.io/badge/Tools-Adobe%20Premiere%20Pro-green?style=plastic&logo=adobe-premiere-pro)
-&emsp;
 ![](https://img.shields.io/badge/Version%20Control-Git/Github-green?style=plastic&logo=github)
 &emsp;
 
