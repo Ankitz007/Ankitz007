@@ -33,20 +33,6 @@ I can usually be found doing two things:
 I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head. I’m also eager to meet other software engineers in the area, so feel free to connect!
 
 
-## ☣️ Tools and Technologies  
-![](https://img.shields.io/badge/OS-Linux-green?style=plastic&logo=Linux)
-&emsp;
-![](https://img.shields.io/badge/Editor-VS%20Code-green?style=plastic&logo=Visual-studio-code)
-&emsp;
-![](https://img.shields.io/badge/Code-Python-green?style=plastic&logo=Python)
-&emsp;
-![](https://img.shields.io/badge/Code-Java-green?style=plastic&logo=Java)
-&emsp;
-![](https://img.shields.io/badge/Tools-Bootstrap%20Studio-green?style=plastic&logo=bootstrap)
-&emsp;
-![](https://img.shields.io/badge/Version%20Control-Git/Github-green?style=plastic&logo=github)
-&emsp;
-
 ## 📊 Statistics
 
 <div align="center">
