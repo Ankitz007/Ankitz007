@@ -40,23 +40,13 @@ I'm still enthusiastically grabbing onto any other programming languages, framew
 &emsp;
 ![](https://img.shields.io/badge/Code-Python-green?style=plastic&logo=Python)
 &emsp;
-![](https://img.shields.io/badge/Code-C-green?style=plastic&logo=C)
-&emsp;
 ![](https://img.shields.io/badge/Code-Java-green?style=plastic&logo=Java)
 &emsp;
 ![](https://img.shields.io/badge/Tools-Bootstrap%20Studio-green?style=plastic&logo=bootstrap)
 &emsp;
-![](https://img.shields.io/badge/Tools-Jupyter-Notebooks-green?style=plastic&logo=jupyter)
-&emsp;
 ![](https://img.shields.io/badge/Tools-Adobe%20Premiere%20Pro-green?style=plastic&logo=adobe-premiere-pro)
 &emsp;
 ![](https://img.shields.io/badge/Version%20Control-Git/Github-green?style=plastic&logo=github)
-&emsp;
-![](https://img.shields.io/badge/Cloud-Google%20Cloud-green?style=plastic&logo=google-cloud)
-&emsp;
-![](https://img.shields.io/badge/Cloud-Microsoft%20Azure-green?style=plastic&logo=microsoft-azure)
-&emsp;
-![](https://img.shields.io/badge/Cloud-Heroku-green?style=plastic&logo=Heroku)
 &emsp;
 
 ## 📊 Statistics
