@@ -44,8 +44,3 @@ I'm still enthusiastically grabbing onto any other programming languages, framew
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitz007&theme=swift&utcOffset=5.5)
   
 </div>
-
-## 💬 How to reach me?
-If you liked what I've done so far and want to collaborate with me in future or want to connect with me, click either of the icons below.  
-
-<a href="https://www.facebook.com/ankitz007/"><img src="https://github.com/Ankitz007/Ankitz007/blob/master/images/%E2%80%94Pngtree%E2%80%94social%20media%20buttons%20png%20and_4163585__01.png" alt="My Facebook" width="150"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/ankitz007/"><img src="https://github.com/Ankitz007/Ankitz007/blob/master/images/%E2%80%94Pngtree%E2%80%94social%20media%20buttons%20png%20and_4163585__03.png" alt="My LinkedIn" width="150" ></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/ankitz_007/"><img src="https://github.com/Ankitz007/Ankitz007/blob/master/images/%E2%80%94Pngtree%E2%80%94social%20media%20buttons%20png%20and_4163585__02.png" alt="My Facebook" width="150" ></a>
