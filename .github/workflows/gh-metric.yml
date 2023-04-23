@@ -1,0 +1,99 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        name: Generate User Metrics
+        with:
+          filename: images/user-metrics.svg
+          token: ${{ secrets.CLASSIC_SECRET_TOKEN }}
+          base: header, repositories, metadata
+          plugin_lines: yes
+      
+      - uses: lowlighter/metrics@latest
+        name: Generate Leetcode Metrics
+        with:
+          filename: images/leetcode-metrics.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_user: ankitz007
+          plugin_leetcode_sections: solved, skills
+      
+      - uses: lowlighter/metrics@latest
+        name: Generate Stackoverflow Metrics
+        with:
+          filename: images/stackoverflow-metrics.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 12784218
+          plugin_stackoverflow_sections: answers-top
+          plugin_stackoverflow_limit: 1
+      
+      - uses: lowlighter/metrics@latest
+        name: Generate Followup Metrics
+        with:
+          filename: images/followup-metrics.svg
+          token: ${{ secrets.CLASSIC_SECRET_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_sections: user
+          plugin_followup_indepth: yes
+      
+      - uses: lowlighter/metrics@latest
+        name: Generate Starred Repositories' Metrics
+        with:
+          filename: images/starred-repo-metrics.svg
+          token: ${{ secrets.CLASSIC_SECRET_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 4
+    
+      - uses: lowlighter/metrics@latest
+        name: Generate Achievements Metrics
+        with:
+          filename: images/achievements-metrics.svg
+          token: ${{ secrets.CLASSIC_SECRET_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+      
+      - uses: lowlighter/metrics@latest
+        name: Generate Recent Activity Metrics
+        with:
+          filename: images/recent-activity-metrics.svg
+          token: ${{ secrets.CLASSIC_SECRET_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 60
+      
+      - uses: lowlighter/metrics@latest
+        name: Generate Languages Metrics
+        with:
+          filename: images/languages-metrics.svg
+          token: ${{ secrets.CLASSIC_SECRET_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+
+      - uses: lowlighter/metrics@latest
+        name: Generate Habits Metrics
+        with:
+          filename: images/habits-metrics.svg
+          token: ${{ secrets.CLASSIC_SECRET_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_days: 30
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          config_timezone: Asia/Kolkata

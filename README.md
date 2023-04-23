@@ -1,16 +1,6 @@
-![My Profile Header](https://github.com/Ankitz007/Ankitz007/blob/master/images/Ankit%20github%20profile.png)
+![My Profile Header](images/profile_banner.png)
 
-## ![My Gif](https://github.com/Ankitz007/Ankitz007/blob/master/images/ank.gif)
-
-![](https://img.shields.io/badge/I'm%20Awesome-Superpower-brightgreen?style=social&logo=awesome-lists)
-&emsp;
-![](https://img.shields.io/badge/Binge%20Watching%20Netflix-Hobbies-brightgreen?style=social&logo=netflix)
-&emsp;
-![](https://img.shields.io/badge/Programming-Hobbies-brightgreen?style=social&logo=gnu-social)
-&emsp;
-![](https://img.shields.io/badge/Artificial%20Intelligence-Interests-brightgreen?style=social&logo=musicbrainz)
-&emsp;  
-
+<br>
 I caught fire coding. 
 
 I never thought my dream was to be a Software Developer. During my school days, I tried myself with sports, science, (chess) and what not. But I kind of just felt meh. I yearned to learn more, yearned to learn something different. Then I joined college.
@@ -33,14 +23,52 @@ I can usually be found doing two things:
 I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head. I’m also eager to meet other software engineers in the area, so feel free to connect!
 
 
-## 📊 Statistics
+## 📊 My Github Insights...
+  
+Following are some insights about my github profile, primarily consisting of my overall repository statistics and the languages I prefer to code in.
+  
 
-<div align="center">
+<table>
+  <tr>
+    <td><img src="images/user-metrics.svg" alt="User Metrics" width="550px"></td>
+    <td>
+      <table>
+        <tr><td><img src="images/languages-metrics.svg" alt="Language Metrics" width="450px"></td></tr>
+        <tr><td><img src="images/followup-metrics.svg" alt="Followup Metrics" width="450px"></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+## ✨ What I've been up to lately...
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitz007&theme=swift)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitz007&theme=swift)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankitz007&theme=swift)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitz007&theme=swift)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitz007&theme=swift&utcOffset=5.5)
-  
-</div>
+Following is a list of my recent activity on Github. It includes repositories I've shown interest in recent times, my recent commits, pull requests, issues, and more.
+
+<table>
+  <tr>
+    <td><img src="images/starred-repo-metrics.svg" alt="Starred Repo Metrics" width="500px"></td>
+    <td><img src="images/recent-activity-metrics.svg" alt="Recent Activity Metrics" width="500px"></td>
+  </tr>
+</table>
+
+## 🧑🏻‍💻 Some of my other profiles...
+
+Following are some of my other profiles on the internet. Feel free to connect with me on any of these platforms. 
+
+<table>
+  <tr>
+    <td><img src="images/leetcode-metrics.svg" alt="Leetcode Metrics" width="500px"></td>
+    <td><img src="images/stackoverflow-metrics.svg" alt="StackOverflow Metrics" width="500px"></td>
+  </tr>
+</table>
+
+## 🎖️ My Achievements so far...
+
+Following are some of my habits and achievements so far. I'm always striving to learn more and improve myself. Hoping to add many more achievements to this list in the coming future.
+
+<table>
+  <tr>
+    <td><img src="images/habits-metrics.svg" alt="Habits Metrics" width="500px"></td>
+    <td><img src="images/achievements-metrics.svg" alt="Achievements Metrics" width="500px"></td>
+  </tr>
+</table>
