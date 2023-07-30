@@ -57,7 +57,7 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 4
     
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@96dde98a034ab75fec7884f9161bc12759275d36
         name: Generate Achievements Metrics
         with:
           filename: images/achievements-metrics.svg
