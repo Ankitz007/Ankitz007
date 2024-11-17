@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.167014613778706 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">124</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.559498956158665 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">128</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3353</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -37,8 +37,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="7.507130633200228 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">40</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="8.25784369652025 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">44</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1753</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -63,16 +63,16 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x79</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x35</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x82</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x36</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x23</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x20</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x21</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x18</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x16</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x17</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x15</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Sliding Window <span class="count">x15</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Linked List <span class="count">x14</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x13</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Sliding Window <span class="count">x12</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x9</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x10</span></div>
                     </div>
                 </section>
             </section>
