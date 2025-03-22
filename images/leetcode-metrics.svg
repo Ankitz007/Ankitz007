@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="17.52907476367803 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">186</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="17.62331710111716 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">187</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3491</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -37,8 +37,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.702702702702702 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">70</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.884169884169884 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">71</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1813</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -65,14 +65,14 @@
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x101</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x41</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x33</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Binary Tree <span class="count">x33</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x34</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Binary Tree <span class="count">x34</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x30</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x29</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x29</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x24</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x24</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x23</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x21</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x19</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x19</span></div>
                     </div>
                 </section>
             </section>
