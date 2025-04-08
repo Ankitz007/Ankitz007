@@ -19,9 +19,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="21.370940170940173 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">228</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3510</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="21.45855881515238 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">229</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3511</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -37,9 +37,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="18.619230769230768 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">103</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1820</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="18.789676002196593 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">104</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1821</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
@@ -64,15 +64,15 @@
                     </h2>
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x104</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x75</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Binary Tree <span class="count">x73</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x76</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Binary Tree <span class="count">x74</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x60</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x44</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x33</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x29</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x25</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x24</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x21</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x22</span></div>
                     </div>
                 </section>
             </section>
