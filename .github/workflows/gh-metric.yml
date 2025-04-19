@@ -57,7 +57,10 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 4
     
-      - uses: lowlighter/metrics@latest
+        # uses: lowlighter/metrics@latest
+        # uses the commit fork https://github.com/stalomeow/metrics/commit/edcae0f874d69e509d25ddd5e750a2f41cd54e10 
+        # until https://github.com/lowlighter/metrics/issues/1706 is fixed in lowlighter.
+      - uses: stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10
         name: Generate Achievements Metrics
         with:
           filename: images/achievements-metrics.svg
