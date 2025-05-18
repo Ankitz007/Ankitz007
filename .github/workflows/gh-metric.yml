@@ -60,14 +60,14 @@ jobs:
         # uses: lowlighter/metrics@latest
         # uses the commit fork https://github.com/stalomeow/metrics/commit/edcae0f874d69e509d25ddd5e750a2f41cd54e10 
         # until https://github.com/lowlighter/metrics/issues/1706 is fixed in lowlighter.
-      - uses: mikey-/metrics@e319a6bba54bb3124073598928bb9b5b74f2d9c7
-        name: Generate Achievements Metrics
-        with:
-          filename: images/achievements-metrics.svg
-          token: ${{ secrets.CLASSIC_SECRET_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: compact
+      # - uses: mikey-/metrics@e319a6bba54bb3124073598928bb9b5b74f2d9c7
+      #   name: Generate Achievements Metrics
+      #   with:
+      #     filename: images/achievements-metrics.svg
+      #     token: ${{ secrets.CLASSIC_SECRET_TOKEN }}
+      #     base: ""
+      #     plugin_achievements: yes
+      #     plugin_achievements_display: compact
       
       - uses: lowlighter/metrics@latest
         name: Generate Recent Activity Metrics
@@ -79,15 +79,15 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 60
       
-      # - uses: lowlighter/metrics@latest
-      #   name: Generate Languages Metrics
-      #   with:
-      #     filename: images/languages-metrics.svg
-      #     token: ${{ secrets.CLASSIC_SECRET_TOKEN }}
-      #     base: ""
-      #     plugin_languages: yes
-      #     plugin_languages_sections: most-used
-      #     plugin_languages_details: bytes-size, percentage
+      - uses: lowlighter/metrics@latest
+        name: Generate Languages Metrics
+        with:
+          filename: images/languages-metrics.svg
+          token: ${{ secrets.CLASSIC_SECRET_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
 
       - uses: lowlighter/metrics@latest
         name: Generate Habits Metrics
