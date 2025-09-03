@@ -1,4 +1,4 @@
-![My Profile Header](images/profile_banner.png)
+![My Profile Header](https://res.cloudinary.com/ankitz007/image/upload/v1747485765/profile/banner_h0jwkk.webp)
 
 <br>
 I caught fire coding. 
